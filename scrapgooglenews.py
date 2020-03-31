@@ -1,4 +1,5 @@
-
+#Rumil Shah
+#This code web scrapes news from GoogleNews website and returns Headline, Link and publish Date
 
 import bs4
 from bs4 import BeautifulSoup as soup
